@@ -1,0 +1,101 @@
+id,answer_start,answer,context,question,answer_end,is binding
+2151454,34,MGSwipeTableCell,This is a xamarin binding for the MGSwipeTableCell iOS Library,What is the source library of this binding?,50,True
+3574574,0,Harbor,Harbor API,What is the source library of this binding?,6,True
+678897,-1,,a Monitor for Terminating Hanging Apache Processes,What is the source library of this binding?,-1,False
+3150071,-1,,A view for pay,What is the source library of this binding?,-1,False
+4414768,-1,,Python package that handles loading and dumping json files in a compressed fashion.,What is the source library of this binding?,-1,False
+3023941,28,Atlas,A simplified Python API for Atlas,What is the source library of this binding?,33,True
+1035013,-1,,Provides access to Accuware Indoor and Outdoor locations.,What is the source library of this binding?,-1,False
+354957,0,SonarQube Scanner,SonarQube Scanner API,What is the source library of this binding?,17,True
+1420760,24,Skype,A gem for accessing the Skype API on all platforms.,What is the source library of this binding?,29,True
+3135695,-1,,Implicit conversion functions that convert from native types to differentiable layers and batches.,What is the source library of this binding?,-1,False
+391784,0,Mapbox Maps,Mapbox Maps SDK for Android,What is the source library of this binding?,11,True
+1239933,8,SystemPay,Node.js SystemPay webservice v5 soap connector,What is the source library of this binding?,17,True
+957359,-1,,Quickly Score Models in Data Science and Machine Learning,What is the source library of this binding?,-1,False
+3698104,21,ONNXRuntime,a Node.js binding of ONNXRuntime that works seamlessly with ONNX.js,What is the source library of this binding?,32,True
+4335905,0,Tencent Cloud IM,Tencent Cloud IM SDK for Web,What is the source library of this binding?,16,True
+200491,-1,,Patches some parts of the Pathname Ruby stdlib class for improved performance,What is the source library of this binding?,-1,False
+85499,0,Microsoft Azure,Microsoft Azure Client Library for Ruby,What is the source library of this binding?,15,True
+4386968,-1,,Artificial Bee Colony Algorithm for educational purposes,What is the source library of this binding?,-1,False
+2771910,-1,,Implementation crate for command-macros,What is the source library of this binding?,-1,False
+1106703,24,Screenfull,Angular bindings to the Screenfull library to allow fullscreen in your app.,What is the source library of this binding?,34,True
+687714,27,MLPACK,Rcpp' Integration for the 'MLPACK' Library,What is the source library of this binding?,33,True
+1715548,33,Twitter Typeahead,An Angular.js wrapper around the Twitter Typeahead library.,What is the source library of this binding?,50,True
+2607982,54,TensorFlow,A very light layer over Java interop for working with TensorFlow,What is the source library of this binding?,64,True
+2596956,0,Dorcas,Dorcas SDK for PHP - Allows you to use the Dorcas API services in your web apps,What is the source library of this binding?,6,True
+3161704,-1,,Asanak.com Notifications channel for Laravel 5.3+,What is the source library of this binding?,-1,False
+4782575,-1,,A short description of WZZLog.,What is the source library of this binding?,-1,False
+2166549,14,Azure IoT,The Microsoft Azure IoT Service SDK for Java,What is the source library of this binding?,23,True
+2820819,21,Tree-sitter,Rust bindings to the Tree-sitter parsing library,What is the source library of this binding?,32,True
+1018886,0,OpenCV,OpenCV wrapper for .NET Framework,What is the source library of this binding?,6,True
+133354,8,Buffer,"Node.js Buffer API, for the browser",What is the source library of this binding?,14,True
+124476,-1,,This packade adds plots to the sym package. It has been factored out of that package because diagrams is a rather heavy dependency.,What is the source library of this binding?,-1,False
+2081122,106,Multipart,Provides a conduit based streaming interface and a concurrent interface to uploading data to S3 using the Multipart API. Also provides method to upload files or bytestrings of known size in parallel. Please see README.md.,What is the source library of this binding?,115,True
+3210174,-1,,Topological Data Analysis for humans,What is the source library of this binding?,-1,False
+1648633,0,mxnet,mxnet csharp Interface,What is the source library of this binding?,5,True
+4776286,0,ncnn,"ncnn wrapper library written in C++ and C# for Windows, MacOS and Linux  Requirements: Visual C++ 2017 Redistributable Package and Vulkan SDK",What is the source library of this binding?,4,True
+4599405,-1,,A new flutter plugin project.,What is the source library of this binding?,-1,False
+924182,-1,,A JARVIS for your team - your most powerful bot and loyal butler.,What is the source library of this binding?,-1,False
+96161,80,Windows Azure,"This project provides a set of PHP client libraries that make it easy to access Windows Azure tables, blobs, queues, service runtime and service management APIs.",What is the source library of this binding?,93,True
+1487195,26,CRM,This package contains the CRM SDK files from 2015 SDK,What is the source library of this binding?,29,True
+2542542,-1,,Digital forensic orchestration.,What is the source library of this binding?,-1,False
+33720,4,AWS,The AWS SDK for Python,What is the source library of this binding?,7,True
+4339052,15,libsass,Wrapper around libsass,What is the source library of this binding?,22,True
+407539,4,PredictionIO,The PredictionIO Java SDK includes an API client and sample code.,What is the source library of this binding?,16,True
+405364,44,StringTemplate,A Scala-friendly wrapper for Terence Parr's StringTemplate library,What is the source library of this binding?,58,True
+741603,2,Reddit,A Reddit library for Dart.,What is the source library of this binding?,8,True
+2112286,18,Lua,An easy-to-use OC-Lua bridge,What is the source library of this binding?,21,True
+343135,-1,,The Cukes in Space! project allows you to run Cucumber features against         the application server of your choice using the Arquillian test         framework.,What is the source library of this binding?,-1,False
+3726670,-1,,Galen specific integration and functionality.,What is the source library of this binding?,-1,False
+1591654,19,chart.js,Vue.js wrapper for chart.js for creating beautiful charts.,What is the source library of this binding?,27,True
+2837629,-1,,A simple library for turning git shas into release names,What is the source library of this binding?,-1,False
+3631778,-1,,A library inspired by the pico-8 API for writing games for the Kano Pixel,What is the source library of this binding?,-1,False
+2424981,-1,,WebSharper Extension for introjs 2.5.0,What is the source library of this binding?,-1,False
+30055,-1,,Monomer is a Polymer library that enables web applications to do more with data.,What is the source library of this binding?,-1,False
+187756,-1,,Check dates before a date,What is the source library of this binding?,-1,False
+1869363,-1,,Pattern Discovery in PDB Structures of Metalloproteins,What is the source library of this binding?,-1,False
+2234014,-1,,Common interface packages for Pyros framework,What is the source library of this binding?,-1,False
+75164,-1,,Jiggle is a depency injection container for php 5.3+,What is the source library of this binding?,-1,False
+3361798,0,baidu map,baidu map sdk,What is the source library of this binding?,9,True
+2182597,-1,,tensorflow/datasets is a library of datasets ready to use with TensorFlow.,What is the source library of this binding?,-1,False
+4330773,0,Open AI environments,Open AI environments bindings for Rust,What is the source library of this binding?,20,True
+4345695,-1,,"Google APIs Client Library for working with Speech v2beta.        Supported Platforms:       - .NET Framework 4.5+       - .NET Standard 1.3 and .NET Standard 2.0; providing .NET Core support.        Legacy platforms:       - .NET Framework 4.0       - Windows 8 Apps       - Windows Phone 8.1       - Windows Phone Silverlight 8.0        Incompatible platforms:       - .NET Framework < 4.0       - Silverlight       - UWP (will build, but is known not to work at runtime)       - Xamarin        More documentation on the API is available at:       https://developers.google.com/api-client-library/dotnet/apis/speech/v2beta        The package source code is available at:       https://github.com/google/google-api-dotnet-client/tree/master/Src/Generated",What is the source library of this binding?,-1,False
+663308,-1,,Cisco Discovery Protocol layer object,What is the source library of this binding?,-1,False
+2588185,-1,,Contract for the Lykke.Job.BlockchainCashoutProcessor,What is the source library of this binding?,-1,False
+337419,43,Microsoft Azure,This package contains the parent module of Microsoft Azure SDK.,What is the source library of this binding?,58,True
+248126,-1,,Rack middleware to abstract Sanger SSO,What is the source library of this binding?,-1,False
+731700,20,Swift Binary Protocol,Python bindings for Swift Binary Protocol,What is the source library of this binding?,41,True
+638420,-1,,a Business Process Management (BPM) Suite,What is the source library of this binding?,-1,False
+2358617,28,Tree View,Xamarin Android Binding for Tree View,What is the source library of this binding?,37,True
+238555,-1,,"Makes all POST calls assume GET. This allows us to do REST development with Facebook, which always sends POST",What is the source library of this binding?,-1,False
+659013,-1,,Manage MongoDB documents as Moose objects,What is the source library of this binding?,-1,False
+4276903,-1,,Flutter plugin for Yandex AppMetric,What is the source library of this binding?,-1,False
+4026057,0,Alibaba Cloud Rtc,Alibaba Cloud Rtc SDK for PHP,What is the source library of this binding?,17,True
+2301597,-1,,Quefei Core,What is the source library of this binding?,-1,False
+1071845,-1,,Non-linear perceptron learning model of machine learning.,What is the source library of this binding?,-1,False
+2739857,-1,,A high-level library on top of Pytorch.,What is the source library of this binding?,-1,False
+765161,24,Diffbot,A PHP wrapper for using Diffbot's API,What is the source library of this binding?,31,True
+3222429,-1,,A collection of feature manipulation utilities and EOTasks,What is the source library of this binding?,-1,False
+4651630,-1,,A tool to evaluate the performance of various machine learning algorithms and preprocessing steps to find a good baseline for a given task.,What is the source library of this binding?,-1,False
+3724451,-1,,GWT Domino,What is the source library of this binding?,-1,False
+2610591,66,PredictionIO,The iOS SDK that provides easy-to-use functions to integrate with PredictionIO REST API services,What is the source library of this binding?,78,True
+3391377,0,Yolo Darknet,"Yolo Darknet Wrapper, Real-Time Object Detection (yolo core of AlexeyAB/darknet), CUDA 10.1",What is the source library of this binding?,12,True
+3403266,0,OpenCV,OpenCV Bindings for Flutter,What is the source library of this binding?,6,True
+795859,0,NETCONF,NETCONF client library for Perl,What is the source library of this binding?,7,True
+725986,4,Intercom,"The Intercom iOS SDK, for integrating Intercom into your iOS application.",What is the source library of this binding?,12,True
+3370619,-1,,General binary search implementation,What is the source library of this binding?,-1,False
+2224955,-1,,My school db lib,What is the source library of this binding?,-1,False
+57887,-1,,MEMPAMAL: Means for EMbarrassingly PArallel MAchine Learning,What is the source library of this binding?,-1,False
+1767424,23,OpenAI Gym,Provides Access to the OpenAI Gym API,What is the source library of this binding?,33,True
+1021834,26,Tellstick TellCore,A managed wrapper for the Tellstick TellCore API.,What is the source library of this binding?,44,True
+414496,0,Ceph FS,Ceph FS Java API.,What is the source library of this binding?,7,True
+730115,4,Tesseract OCR,Use Tesseract OCR in iOS projects written in either Objective-C or Swift.,What is the source library of this binding?,17,True
+124532,-1,,A library for tagging data according to regex rules and manipulating the tagged structures.,What is the source library of this binding?,-1,False
+691018,-1,,State Space Models,What is the source library of this binding?,-1,False
+197991,0,Ember.js,Ember.js source code wrapper for use with Ruby libs.,What is the source library of this binding?,8,True
+616859,-1,,"Navegar vous permet de gérer une navigation, au sein de vos applications Windows Presentation Foundation et Universal Windows Platform en utilisant l'approche ViewModel First et non l'approche View First intégrée dans le Framework WinRT, le tout basé sur MVVMLight et SimpleIoc, vous pouvez donc passer d'une page à une autre simplement depuis vos ViewModels.",What is the source library of this binding?,-1,False
+4720290,-1,,a machine learning library which collects my experience on AI.,What is the source library of this binding?,-1,False
+3818648,-1,,ForceManager Bridge Backend,What is the source library of this binding?,-1,False
+3862822,23,wallet-core,JavaScript wrapper for wallet-core,What is the source library of this binding?,34,True
+3263375,0,ONNX Runtime,ONNX Runtime Python bindings,What is the source library of this binding?,12,True
+4726827,-1,,XAIN is an open source framework for federated learning.,What is the source library of this binding?,-1,False

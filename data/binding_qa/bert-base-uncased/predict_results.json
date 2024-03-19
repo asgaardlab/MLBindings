@@ -1,0 +1,19 @@
+{
+    "predict_samples": 100,
+    "test_HasAns_exact": 76.0,
+    "test_HasAns_f1": 77.0,
+    "test_HasAns_total": 50,
+    "test_NoAns_exact": 100.0,
+    "test_NoAns_f1": 100.0,
+    "test_NoAns_total": 50,
+    "test_best_exact": 88.0,
+    "test_best_exact_thresh": 0.0,
+    "test_best_f1": 88.5,
+    "test_best_f1_thresh": 0.0,
+    "test_exact": 88.0,
+    "test_f1": 88.5,
+    "test_runtime": 0.7639,
+    "test_samples_per_second": 130.905,
+    "test_steps_per_second": 5.236,
+    "test_total": 100
+}

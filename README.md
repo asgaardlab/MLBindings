@@ -1,1 +1,1 @@
-# Replication package for the paper "Studying Popular Open Source Machine Learning Libraries and Their Cross-Ecosystem Bindings"
+# Replication package for the paper "Studying the Cross-Ecosystem Bindings of Open Source Machine Learning Libraries"
