@@ -1,4 +1,4 @@
-# Replication package for the paper "Studying the Cross-Ecosystem Bindings of Open Source Machine Learning Libraries"
+# Replication package for the paper "Bridging the Language Gap: An Empirical Study of Bindings for Open Source Machine Learning Libraries in Software Package Ecosystems	"
 
 ## Data Overview
 
